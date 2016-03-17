@@ -1,14 +1,14 @@
 # wp-banner-injection
 Inject a banner into a WordPress theme
 
-Contributors: nicorellius
-Donate link: http://www.cistechconsulting.com
-Tags: banner, themes, plugins
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Contributors: nicorellius  
+Donate link: http://www.cistechconsulting.com  
+Tags: banner, themes, plugins  
+Requires at least: 3.0.1  
+Tested up to: 3.4  
+Stable tag: 4.3  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
 Inject a banner into a WordPress theme based on classes or IDs in the HTML.
 
